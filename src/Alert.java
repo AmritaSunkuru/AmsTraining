@@ -18,6 +18,7 @@ public class Alert {
 		System.out.println("Text on Alert - "+ driver.switchTo().alert().getText());
 		driver.switchTo().alert().accept();//ALERT
 		System.out.println("Added one extra line for GIT demo");
+		System.out.println("Added one extra line for GIT demo");
 
 	}
 
