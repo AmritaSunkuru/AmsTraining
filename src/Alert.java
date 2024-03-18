@@ -17,6 +17,7 @@ public class Alert {
 		driver.findElement(By.xpath("//input[@id='alertbtn']")).click();
 		System.out.println("Text on Alert - "+ driver.switchTo().alert().getText());
 		driver.switchTo().alert().accept();//ALERT
+		System.out.println("Added one extra line for GIT demo");
 
 	}
 
