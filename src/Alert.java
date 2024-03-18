@@ -19,6 +19,7 @@ public class Alert {
 		driver.switchTo().alert().accept();//ALERT
 		System.out.println("Added one extra line for GIT demo");
 		System.out.println("Added one extra line for GIT demo");
+		System.out.println("Added comment in GITX project now");
 
 	}
 
