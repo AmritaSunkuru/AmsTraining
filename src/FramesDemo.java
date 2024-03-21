@@ -22,6 +22,7 @@ public class FramesDemo {
 			a.dragAndDrop(src, tgt).build().perform();
 			driver.switchTo().defaultContent();
 			System.out.println("Added comment in AmsTraining project now from develop branch");
+			System.out.println("Added comment in GitX project now from develop branch");
 		
 			
 
