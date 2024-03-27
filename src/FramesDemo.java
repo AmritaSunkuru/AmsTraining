@@ -21,6 +21,7 @@ public class FramesDemo {
 			Actions a = new Actions(driver);
 			a.dragAndDrop(src, tgt).build().perform();
 			driver.switchTo().defaultContent();
+			System.out.println("Added comment in AmsTraining project now from develop branch");
 		
 			
 

@@ -20,6 +20,7 @@ public class Alert {
 		System.out.println("Added one extra line for GIT demo");
 		System.out.println("Added one extra line for GIT demo");
 		System.out.println("Added comment in GITX project now");
+		System.out.println("Added comment in AmsTraining project now from develop branch");
 
 	}
 
