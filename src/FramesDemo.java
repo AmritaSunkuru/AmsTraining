@@ -23,6 +23,9 @@ public class FramesDemo {
 			driver.switchTo().defaultContent();
 			System.out.println("Added comment in AmsTraining project now from develop branch");
 			System.out.println("Added comment in GitX project now from develop branch");
+			System.out.println("GIT - this is the 2nd person who downloaded the code from GITHUB and doing the changes here");
+			System.out.println("GIT - this is the 1st person who downloaded lastest code from GITHUB with pull and done code changes here");
+
 		
 			
 
